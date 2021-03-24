@@ -1,5 +1,6 @@
-# adminbypasser
+# Admin Bypasser
 Run a software without admin rights
+
 
 Download zip from GitHub.
 
