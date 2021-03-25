@@ -3,8 +3,8 @@ Run a software without admin rights
 
 # Tutorial
 
-Download zip from GitHub.
+Download zip from releases.
 
-Move the software to folder "assets\App" and rename it to 1.exe (or any extensions)
+Move the software to folder "assets\.programs". Run launch.bat and type name of the file.
 
-Now run launch.bat and ENJOY!
+Enjoy!
